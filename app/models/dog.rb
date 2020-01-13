@@ -9,6 +9,7 @@ class Dog
     @age = age;
   end
 
+  
 
 
 end
